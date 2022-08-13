@@ -1,6 +1,6 @@
 # CFAR jargon flashcards
 
-[Duncan posted](https://www.lesswrong.com/posts/fbv9FWss6ScDMJiAx/appendix-jargon-dictionary) a list of jargon from the [Center For Applied Rationality](https://en.wikipedia.org/wiki/Center_for_Applied_Rationality) Handbook, so I made an [Anki][https://en.wikipedia.org/wiki/Anki_(software)] deck for anyone who wants to memorize it.
+[Duncan posted](https://www.lesswrong.com/posts/fbv9FWss6ScDMJiAx/appendix-jargon-dictionary) a list of jargon from the [Center For Applied Rationality](https://en.wikipedia.org/wiki/Center_for_Applied_Rationality) Handbook, so I made an [Anki](https://en.wikipedia.org/wiki/Anki_(software\)) deck for anyone who wants to memorize it.
 
 ## Importing
 
